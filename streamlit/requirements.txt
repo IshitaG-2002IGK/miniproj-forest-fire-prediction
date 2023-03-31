@@ -1,0 +1,12 @@
+Flask==2.0.1
+numpy==1.20.3
+pandas==1.2.4
+scikit-learn==0.24.2
+scipy==1.6.3
+six==1.16.0
+sklearn==0.0
+seaborn==12.0
+plotly
+matpolotlib
+streamlit
+jupyterlab
